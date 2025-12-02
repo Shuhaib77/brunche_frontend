@@ -1,4 +1,3 @@
-import React from "react";
 import headerIcon from "../../../../public/assets/headerIcon.avif";
 import { CiUser } from "react-icons/ci";
 import { IoBagOutline } from "react-icons/io5";

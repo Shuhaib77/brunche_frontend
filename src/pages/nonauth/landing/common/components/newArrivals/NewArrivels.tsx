@@ -50,7 +50,7 @@ function NewArrivels() {
       <h1>new Arrraivels</h1>
       <div className="w-full grid gap-5 p-5 grid-cols-3  ">
         {products.map((item, i) => (
-          <ProductCard name={item.name} image={item.image} price={item.price} />
+          <ProductCard key={i+1} name={item.name} image={item.image} price={item.price} />
         ))}
       </div>
       <div className=" flex items-center justify-center">
