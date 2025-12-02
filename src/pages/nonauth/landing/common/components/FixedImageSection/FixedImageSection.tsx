@@ -10,6 +10,7 @@ function FixedImageSection() {
           bg-[url('https://png.pngtree.com/recommend-works/png-clipart/20250308/ourmid/pngtree-starbucks-cocoa-latte-coffee-cup-png-image_15744466.png')]
           bg-contain bg-no-repeat bg-center
           bg-fixed
+          w-full
         "
         ></div>
       </div>

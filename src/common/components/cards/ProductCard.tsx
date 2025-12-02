@@ -12,7 +12,7 @@ function ProductCard({ name, image, price }: Payload) {
         <img
           src={image}
           alt={name}
-          className="w-full min-h-[900px] min-w-[500px] object-contain"
+          className="w-full min-h-[600px] max-h-[700px] min-w-[500px] object-contain"
         />
       </div>
 
