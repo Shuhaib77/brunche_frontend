@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "../../../common/layout/header/Header";
 import HomeBanner from "./common/components/banner/HomeBanner";
 import NewArrivels from "./common/components/newArrivals/NewArrivels";
